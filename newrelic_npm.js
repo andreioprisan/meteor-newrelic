@@ -1,0 +1,1 @@
+newrelic = Npm.require('newrelic');
