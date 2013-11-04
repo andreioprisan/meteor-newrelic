@@ -1,14 +1,14 @@
-Meteor SQL bindings
+Meteor NewRelic Bindings
 ==========================
 
-This smart package exposes SQL bindings.
+This smart package exposes Meteor NewRelic bindings.
 
 This Meteor package is licensed under the MIT license.
 
-This uses version 1.2.1 of the Twilio squel package.
+This uses version 1.0.1 of the NewRelic package.
 
 #### To Install
 
-    mrt add meteor-sql
+    mrt add meteor-newrelic
 
 
