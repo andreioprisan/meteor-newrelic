@@ -1,3 +1,5 @@
+NOTE: DEPRECATED IN FAVOR OF https://github.com/mycartio/newrelic
+
 Meteor NewRelic Bindings
 ==========================
 
